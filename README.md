@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ikechukwu emeka</h1>
 <h3 align="center">An enthusiastic front-end developer from Nigeria who is eager to collaborate with others who share my creative mindset in order to accomplish the same noble objectives. I also welcome suggestions and fixes.</h3>
