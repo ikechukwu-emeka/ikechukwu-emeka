@@ -26,7 +26,6 @@
 <a href="https://twitter.com/@emmy_republi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@emmy_republi" height="30" width="40" /></a>
 <a href="https://fb.com/kvng emmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kvng emmy" height="30" width="40" /></a>
   <a href="https://wa.me/2349090949908?text=Hi Emeka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="kvng emmy" height="30" width="40" /></a>
-    <a href="https://Linkedin/ikechukwu emeka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Linkedin.svg" alt="Ikechukwu emeka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
