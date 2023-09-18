@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@emmy_republi" target="blank"><img src="https://img.shields.io/twitter/follow/@emmy_republi?logo=twitter&style=for-the-badge" alt="@emmy_republi" /></a> </p>
 
-- 🔭 I’m currently working on [Eatery landing page](https://github.com/ikechukwu-emeka/Eatery-landing_page)
+- 🔭 I’m currently working on [Eatery-landing-page](https://github.com/ikechukwu-emeka/Eatery-landing-page)
 
 - 🌱 I’m currently learning **Bootstrap**
 
